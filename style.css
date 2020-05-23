@@ -18,10 +18,10 @@ div {
   /* Your code here! */
   color:red;
   font-size: 22px;
-  font-style: italic;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
+    font-style: italic;
   /* Your code here! */
 }
